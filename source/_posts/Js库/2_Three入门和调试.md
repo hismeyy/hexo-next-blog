@@ -1,6 +1,6 @@
 ---
-title: 1_Three入门和调试
-date: 2023-2-22
+title: 2_Three入门和调试
+date: 2023-2-21
 description: 为了准备情侣宠物，简单学习了一下Three.js的使用
 tags:
   - 学习
